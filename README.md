@@ -48,4 +48,4 @@ Watch the project in action:
 ![Project](images/final-setup/IMG_7215.PNG)
 
 ### Circuit Closeup
-![Circuit](images/circuit-closeup/IMG_7221.HEIC)
+![Circuit](images/circuit-closeup/circuit-closeup.png)
