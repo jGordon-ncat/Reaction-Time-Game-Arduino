@@ -45,7 +45,7 @@ Watch the project in action:
 ## Project Images
 
 ### Finished Build
-![Project](images/final-setup.png)
+![Project](images/final-setup/IMG_7221.HEIC)
 
 ### Circuit Closeup
 ![Circuit](images/circuit.png)
